@@ -1,5 +1,7 @@
 ## Build and end-to-end Web Development Amazon Clone (frontend UI) mini project using HTML , CSS 
 
+<a href="https://amazonclonemp.netlify.app/">Amazon clone </a>
+
 ## 👇 PROJECT SCREENSHOT 
 
 <img width="1917" height="1015" alt="Screenshot 2026-03-10 000528" src="https://github.com/user-attachments/assets/47426bb2-edd8-4077-a789-374f1e1cbcb1" />
