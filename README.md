@@ -1,4 +1,4 @@
-## Build and end-to-end Web Development Amazon Clone (frontend UI) mini project using HTML , CSS.
+## Build an Web Development Amazon Clone (frontend UI) using HTML , CSS.
 
 <a href="https://amazonclonemp.netlify.app/">Amazon clone </a>
 
